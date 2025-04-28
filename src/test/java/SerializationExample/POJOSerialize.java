@@ -1,4 +1,4 @@
-package POJOtoJSON;
+package SerializationExample;
 
 import static io.restassured.RestAssured.given;
 

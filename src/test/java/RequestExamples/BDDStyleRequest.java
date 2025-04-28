@@ -1,4 +1,4 @@
-package BDDStyle;
+package RequestExamples;
 
 import org.junit.Test;
 

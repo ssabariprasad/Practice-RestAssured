@@ -1,4 +1,4 @@
-package POJOtoJSON;
+package SerializationExample;
 
 public class User {
 String name;
